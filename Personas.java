@@ -18,7 +18,6 @@ public class Personas {
 	for(int i=1; i<=5; i++)
 	{	
 		Scanner scan = new Scanner(System.in); 
-		
 		System.out.println("Nombre del alumno nº " + contador);
 		nombre = scan.nextLine();   
 		

@@ -15,8 +15,6 @@ public class Personas {
 		int j=0;
 		array[j]=nota;
 
-
-
 	for(int i=1; i<=5; i++)
 	{	
 		Scanner scan = new Scanner(System.in); 
